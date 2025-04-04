@@ -26,6 +26,7 @@
 
     div#formulario > p {
         font-size: 1em;
+        padding: 10px 0px;
     }
 
 }
@@ -53,6 +54,8 @@
 
     div#formulario > p {
         font-size: 1.2em;
+        padding: 10px 0px;
+        
     }
 
     
